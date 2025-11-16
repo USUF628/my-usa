@@ -1,0 +1,22 @@
+html
+‎<!DOCTYPE html>
+‎<html lang="bn">
+‎<head>
+‎    <meta charset="UTF-8">
+‎    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+‎    <title>my-usa</title>
+‎    <link rel="stylesheet" href="style.css">
+‎</head>
+‎<body>
+‎    <header>
+‎        <h1>my-usa</h1> <!-- ওয়েবসাইটের নাম -->
+‎        <h2>স্বাগতম my-usa ওয়েবসাইটে</h2> <!-- স্বাগতম বার্তা -->
+‎    </header>
+‎    <main>
+‎        <p>এটি একটি ওয়েবসাইট যেখানে আপনি মার্কিন যুক্তরাষ্ট্র সম্পর্কে বিভিন্ন তথ্য পেতে পারেন।</p>
+‎    </main>
+‎    <footer>
+‎        <p>&copy; 2023 my-usa. সমস্ত অধিকার সংরক্ষিত।</p>
+‎    </footer>
+‎</body>
+‎</html>
