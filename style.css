@@ -1,0 +1,17 @@
+css
+‎header {
+‎    background-color: #00796b;
+‎    color: white;
+‎    padding: 20px;
+‎    text-align: center;
+‎}
+‎
+‎h1 {
+‎    font-size: 3rem; /* বড় ফন্ট সাইজ */
+‎    margin: 0; /* মার্জিন সরান */
+‎}
+‎
+‎h2 {
+‎    font-size: 1.5rem; /* স্বাগতম বার্তার ফন্ট সাইজ */
+‎    margin: 10px 0 0; /* মার্জিনের স্থান নির্ধারণ করুন */
+‎}
